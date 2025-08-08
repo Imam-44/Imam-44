@@ -1,4 +1,6 @@
-(https://github.com/user-attachments/assets/65c86748-1b21-4541-9bda-c47fda6ebc5a)
+
+<img src="https://i.ibb.co.com/6pDRyCV/Red-Black-Geometric-Gamer-Youtube-Banner.png" alt="Banner" />
+
 
 <h1 align="center">Hi 👋, I'm Imam Hasan</h1>
 <h3 align="center">🚀 Full Stack Web Developer from Bangladesh</h3>
