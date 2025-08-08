@@ -59,11 +59,13 @@ Love solving real-world problems with clean code.
 
 ## 📊 GitHub Stats
 
-![Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imam-44&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imam-44&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=default)
+![GitHub Contribution Graph](https://github.com/Imam-44/Imam-44/blob/main/github-metrics.svg)
+
+
 
 ---
 
