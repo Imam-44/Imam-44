@@ -52,8 +52,8 @@ Love solving real-world problems with clean code.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourlinkedinprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/imam-hasan4/)  
+[![GitHub](https://github.com/Imam-44)
 
 ---
 
